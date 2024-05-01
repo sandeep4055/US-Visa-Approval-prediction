@@ -17,6 +17,7 @@ PyYAML
 neuro_mf
 boto3
 mypy-boto3-s3
+statsmodels
 botocore
 fastapi
 uvicorn
